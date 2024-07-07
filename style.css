@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: black !important;
+}
+
+.hero{
+    background-color: black;
+    color: #fff;
+    padding: 100px 0;
+}
+
+
+.hero h1{
+    font-size: 3.5rem;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+
+.hero p{
+    font-size: 1.5rem;
+    margin-bottom: 40px;
+}
+
+.content{
+    padding: 50px 0;
+}
+
+.content h2{
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.navbar-nav .nav-link{
+    font-weight: 1000;
+}
+
+.card{
+    transition: transform 0.2s;
+}
+
+.card:hover{
+    transform: scale(1.05);
+}
+
+.card{
+    margin-bottom: 20px;
+}
+
+.card-body{
+    padding: 1.25rem;
+}
+
+.btn{
+    color: white;
+}
+
+.container .mt-4 h1{
+    color: #fff;
+}
+
+.container.mt-4 h1{
+    color: #fff;
+}
+
+.container h1.mb-4{
+    color: #fff;
+}
+
